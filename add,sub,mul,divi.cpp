@@ -11,6 +11,6 @@ cout<<a+b<<"\n";
 cout<<"substration";
 cout<<a-b<<"\n";
 cout<<"divison";
-cout<<a%b<<"\n";
+cout<<a/b<<"\n";
 return 0;
 }
