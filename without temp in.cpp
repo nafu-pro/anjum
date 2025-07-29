@@ -7,7 +7,7 @@ int main()
    cout<<"p="<<p<<"q="<<q;
    p=p+q;
    q=p-q;
-   p=p+q;
+   p=p-q;
     cout<<"afterswap";
    cout<<"p="<<p<<"q="<<q;
    return 0;
